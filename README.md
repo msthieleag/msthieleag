@@ -6,8 +6,10 @@
 
 ## :sunglasses: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Passionate for technology
-- 🎓 
-
+- 🎓 Bachelor of Computer Science
+- :brazil: Brazilian guy in Canada :canada:
+- :mag_right: Looking for new challenges
+ 
 ## languages and tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
